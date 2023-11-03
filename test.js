@@ -1,4 +1,4 @@
-export const  posts = [
+export const posts = [
   {
     id: 1,
     title: "lorem ipsum dolor"
